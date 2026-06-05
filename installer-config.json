@@ -1,0 +1,11 @@
+{
+    "assemblyName": "Seica",
+    "converterClass": "Virinco.WATS.Converter.Seica.SeicaXMLConverter",
+    "displayName": "Seica ICT Converter",
+    "description": "Converts Seica ICT XML test result files to WATS UUT reports.",
+    "version": "1.0.0",
+    "fileFilter": "*.xml",
+    "uploadPath": "C:\\ProgramData\\Virinco\\WATS\\Seica",
+    "postProcessAction": "Archive",
+    "productGuid": "4f87052e-3db3-ae0d-10f2-1c11fb2f3db7"
+}
